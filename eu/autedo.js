@@ -1,0 +1,1 @@
+warn(stackNonSummativeAggregate(stackedFieldDef.aggregate));
